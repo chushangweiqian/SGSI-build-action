@@ -7,10 +7,10 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
-  ZIP_NAME: 'update.zip'
+  ROM_URL: 'https://www.coolapk.com/link?url=https%3A%2F%2Fwlansysupwrrdl.vivo.com.cn%2Fupgrade%2Frecovery%2FrecoveryFiles%2F202103300115196e30790ed77bce99214e3c46e751e941.zip'
+  ZIP_NAME: '202103300115196e30790ed77bce99214e3c46e751e941'
   OS_TYPE: 'Generic'
-  BUILD_TYPE: 'ab'
+  BUILD_TYPE: 'a-only'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '12'
   upload_action-gh-release: 'true'
